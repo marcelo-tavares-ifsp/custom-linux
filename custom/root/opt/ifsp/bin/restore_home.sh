@@ -1,8 +1,8 @@
 #!/bin/bash
 # restore_home.sh - Restaura os diretórios dos usuários e configurações como nome e ícone.
 # Licença: GPLv3
-# Autor: [Seu Nome]
-# Data: [Data de Criação]
+# Autor: Marcelo Tavares de Santana
+# Criação: 2024-12-26 
 
 # Array bidimensional: UID, login, nome completo, caminho do ícone.
 USERS=(
