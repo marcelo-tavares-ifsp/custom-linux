@@ -1,0 +1,12 @@
+[Unit]
+Description=Restaura nome e ícone de usuários
+After=accounts-daemon.service
+
+[Service]
+Type=oneshot
+ExecStart=/opt/ifsp/bin/restore_user.sh
+RemainAfterExit=no
+
+[Install]
+WantedBy=multi-user.target
+

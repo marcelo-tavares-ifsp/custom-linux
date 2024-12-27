@@ -1,0 +1,16 @@
+[Unit]
+Description=Restaura diretórios em /home/ ao estado inicial
+DefaultDependencies=no
+Before=umount.target
+Requires=shutdown.target halt.target
+Conflicts=reboot.target
+ConditionPathExists=/run/systemd/shutdown
+
+[Service]
+Type=oneshot
+ExecStart=/opt/ifsp/bin/restore_home.sh
+RemainAfterExit=true
+
+[Install]
+WantedBy=shutdown.target halt.target
+
