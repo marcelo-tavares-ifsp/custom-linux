@@ -1,5 +1,5 @@
 #!/bin/bash
-# restore_home.sh - Restaura os diretórios dos usuários e configurações como nome e ícone.
+# restore_home.sh - Restaura diretórios de usuários
 # Licença: GPLv3
 # Autor: Marcelo Tavares de Santana
 # Criação: 2024-12-26 

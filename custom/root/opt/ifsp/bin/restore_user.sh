@@ -1,5 +1,5 @@
 #!/bin/bash
-# restore_user.sh - Restaura os diretórios dos usuários e configurações como nome e ícone.
+# restore_user.sh - Restaura configurações de usuários como nome e ícone
 # Licença: GPLv3
 # Autor: Marcelo Tavares de Santana
 # Criação: 2024-12-26 
@@ -7,11 +7,8 @@
 # Array bidimensional: UID, login, nome completo, caminho do ícone.
 USERS=(
   "1000 teste 'Usuário de teste' ''"
-  # Adicione mais usuários conforme necessário.
+  # Adicione mais usuários conforme necessário.0
 )
-
-# Caminho base para backup dos diretórios
-BACKUP_BASE="/opt/ifsp/home"
 
 # Função para restaurar o nome completo e o ícone do usuário
 restore_user_info() {
