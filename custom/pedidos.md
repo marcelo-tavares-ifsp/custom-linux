@@ -80,7 +80,6 @@ Checklist de instalação
 ---
 
 ### **Educacionais**  
-- [ ] **MATLAB**: Pago (licenças para estudantes disponíveis).  
 - [ ] **GNU Octave (com pacote symbolic)**: Gratuito e de código aberto.  
 - [ ] **Geogebra**: Gratuito e de código aberto.  
 - [ ] **QGIS (Geografia)**: Gratuito e de código aberto.  
