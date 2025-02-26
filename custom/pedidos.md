@@ -6,13 +6,13 @@ Checklist de instalação
 - [x] **Arduino IDE**: Gratuito e de código aberto.  
 - [x] **CodeBlocks**: Gratuito e de código aberto.  
 - [ ] **Dev C++**: Gratuito (não é código aberto, mas há forks que são).  
-- [ ] **Eclipse IDE for Enterprise Java and Web Developers**: Gratuito e de código aberto.  
-- [ ] **Github Desktop**: Gratuito e de código aberto.  
-- [ ] **IntelliJ IDEA Community**: Gratuito e de código aberto (versão Ultimate é paga).  
-- [ ] **PyCharm Community**: Gratuito e de código aberto (versão Professional é paga).  
-- [ ] **R Studio**: Gratuito e de código aberto.  
-- [ ] **Studio 3T**: Pago (versão de avaliação limitada disponível).  
-- [ ] **Visual Studio Code**: Gratuito (não é completamente código aberto).  
+- [x] **Eclipse IDE for Enterprise Java and Web Developers**: Gratuito e de código aberto.  
+- [x] **Github Desktop**: Gratuito e de código aberto. (https://github.com/shiftkey/desktop) 
+- [x] **IntelliJ IDEA Community**: Gratuito e de código aberto (versão Ultimate é paga).  
+- [x] **PyCharm Community**: Gratuito e de código aberto (versão Professional é paga).  
+- [x] **R Studio**: Gratuito e de código aberto.  
+- [x] **Studio 3T**: Pago (versão de avaliação limitada disponível).  
+- [x] **Visual Studio Code**: Gratuito (não é completamente código aberto).  
 
 ---
 
@@ -59,7 +59,7 @@ Checklist de instalação
 - [ ] **Cisco Packet Tracer 8.2**: Pago (uso educacional pode ser gratuito).  
 - [ ] **VirtualBox**: Gratuito e de código aberto (extensão pode ter licença restrita).  
 - [x] **Wireshark**: Gratuito e de código aberto.  
-- [ ] **Wine com suporte a 32 bits**: Gratuito (depende do uso de software licenciado).  
+- [x] **Wine com suporte a 32 bits**: Gratuito e de código aberto  
 
 ---
 
