@@ -36,7 +36,7 @@ Checklist de instalação
 
 ### **Modelagem**  
 - [ ] **brModelo**: Gratuito (não é código aberto).  
-- [ ] **MySQL Workbench**: Gratuito (pode ter custos em ambientes corporativos).  
+- [ ] **MySQL Workbench**: Gratuito ().  
 - [x] **Umbrello (UML)**: Gratuito e de código aberto.  
 - [ ] **Yaoqiang BPMN**: Gratuito e de código aberto.  
 
@@ -44,9 +44,15 @@ Checklist de instalação
 
 ### **Projetos**  
 - [x] **git**: Gratuito e de código aberto (incluindo pacote git-flow) 
+- [x] **gource**: Gratuito e de código aberto 
+- [x] **latexdiff**: Gratuito e de código aberto 
 - [x] **LaTeX (texlive)**: Gratuito e de código aberto.  
-- [x] **TexMaker / TeXstudio**: Gratuitos e de código aberto.  
-- [x] **gource**: Gratuito e de código aberto
+- [x] **Meld**: Gratuito e de código aberto 
+- [x] **statsvn**: Gratuito e de código aberto 
+- [x] **subversion**: Gratuito e de código aberto 
+- [x] **TexMaker**: Gratuitos e de código aberto.  
+- [x] **TeXstudio**: Gratuitos e de código aberto.  
+- [x] **xxdiff**: Gratuito e de código aberto 
 
 ---
 
@@ -57,12 +63,17 @@ Checklist de instalação
 - [ ] **MS-SQL Server Express**: Gratuito (versão completa é paga).  
 - [x] **MySQL Community Server**: Gratuito (pode ter custos em ambientes corporativos).  
 - [x] **PostgreSQL**: Gratuito e de código aberto
+- [x] **OpenSSL**: Gratuito e de código aberto
 - [x] **OpenSSH**: Gratuito e de código aberto
 
 ---
 
 ### **Rede, Simulação, Virtualização e Segurança**  
 - [ ] **Cisco Packet Tracer 8.2**: Pago (uso educacional pode ser gratuito).  
+- [x] **KeepassXC**: Gratuito e de código aberto
+- [x] **Kleopatra**: Gratuito e de código aberto
+- [x] **phpMyAdmin**: Gratuito e de código aberto
+- [x] **Q4Wine**: Gratuito e de código aberto
 - [x] **VirtualBox**: Gratuito e de código aberto (extensão pode ter licença restrita).  
 - [x] **Wireshark**: Gratuito e de código aberto.  
 - [x] **Wine com suporte a 32 bits**: Gratuito e de código aberto  
@@ -77,20 +88,39 @@ Checklist de instalação
 ---
 
 ### **Escritório, Ferramentas e Produtividade**  
-- [x] **LibreOffice**: Gratuito e de código aberto.  
-- [x] **Okular (PDF)**: Gratuito e de código aberto.  
-- [x] **PDF Arranger**: Gratuito e de código aberto.  
+- [x] **Audacity (editor de áudio)**: Gratuito e de código aberto.  
+- [x] **calculadora científica**: Gratuito e de código aberto.  
+- [x] **Chromium (navegador Web)**: Gratuito e de código aberto.  
+- [x] **Dia (editor de diagramas)**: Gratuito e de código aberto.  
+- [x] **Firefox (navegador Web)**: Gratuito e de código aberto.  
 - [x] **Gimp (edição de imagem)**: Gratuito e de código aberto.  
 - [x] **Inkscape (desenho vetorial)**: Gratuito e de código aberto.  
+- [x] **LibreOffice (suíte de escritório)**: Gratuito e de código aberto.  
+- [x] **Okular (PDF)**: Gratuito e de código aberto.  
+- [x] **PDF Arranger**: Gratuito e de código aberto.  
 - [x] **QtQR (gerador de QR Code)**: Gratuito e de código aberto.  
+- [x] **Shotcut (editor de vídeo)**: Gratuito e de código aberto.  
+- [x] **VLC (tocador de áudio e vídeo)**: Gratuito e de código aberto.  
 
 ---
 
 ### **Educacionais**  
+- [x] **Avogadro (Química)**: Gratuito e de código aberto.  
+- [x] **gnuplot ()**: Gratuito e de código aberto.  
+- [x] **Praat (Física)**: Gratuito e de código aberto.  
+- [x] **Tracker (Fisica)**: Gratuito e de código aberto.  
+- [] **Zotero (gerenciador de referências de pesquisa)**: Gratuito e de código aberto.  
 - [x] **GNU Octave (com pacote symbolic)**: Gratuito e de código aberto.  
 - [x] **Geogebra**: Gratuito e de código aberto.  
 - [x] **QGIS (Geografia)**: Gratuito e de código aberto.  
+- [x] **QElectroTech (Elétrica)**: Gratuito e de código aberto.  
+- [] ** ()**: Gratuito e de código aberto.  
+- [] ** ()**: Gratuito e de código aberto.  
+- [] ** ()**: Gratuito e de código aberto.  
+- [] ** ()**: Gratuito e de código aberto.  
+- [] ** ()**: Gratuito e de código aberto.  
+- [] ** ()**: Gratuito e de código aberto.  
 
-- Google Earth: nova licença não permite instalação para entidade acadêmica, permite somente pessoal física, deverão suar o Google Earth Web
+- Google Earth: nova licença não permite instalação para entidade acadêmica, deverão suar o Google Earth Web
 
 ---
