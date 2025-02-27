@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Eclipse IDE
+Comment=Code Editing
+GenericName=Text Editor
+Exec=/opt/eclipse-jee/eclipse
+Icon=/opt/eclipse-jee/icon.xpm
+Type=Application
+StartupNotify=false
+StartupWMClass=Code
+Categories=TextEditor;Development;IDE;
+MimeType=application/x-code-workspace;
+Keywords=eclipse;
+

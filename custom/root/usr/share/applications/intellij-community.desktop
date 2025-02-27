@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Intellij IDEA
+Comment=Code Editing
+GenericName=Text Editor
+Exec=/opt/intellij-community/bin/idea
+Icon=/opt/intellij-community/bin/idea.png
+Type=Application
+StartupNotify=false
+StartupWMClass=Code
+Categories=TextEditor;Development;IDE;
+MimeType=application/x-code-workspace;
+Keywords=java;
+

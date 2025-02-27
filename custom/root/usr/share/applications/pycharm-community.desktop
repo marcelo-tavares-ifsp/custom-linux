@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=PyCharm
+Comment=Code Editing
+GenericName=Text Editor
+Exec=/opt/pycharm-community/bin/pycharm
+Icon=/opt/pycharm-community/bin/pycharm.png
+Type=Application
+StartupNotify=false
+StartupWMClass=Code
+Categories=TextEditor;Development;IDE;
+MimeType=application/x-code-workspace;
+Keywords=python;
+

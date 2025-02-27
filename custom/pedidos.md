@@ -3,16 +3,21 @@ Checklist de instalação
 ---
 
 ### **IDEs e Afins**  
-- [x] **Arduino IDE**: Gratuito e de código aberto.  
-- [x] **CodeBlocks**: Gratuito e de código aberto.  
-- [ ] **Dev C++**: Gratuito (não é código aberto, mas há forks que são).  
-- [x] **Eclipse IDE for Enterprise Java and Web Developers**: Gratuito e de código aberto.  
+- [x] **Arduino IDE**: Gratuito e de código aberto  
+- [x] **Azure Data Studio**: Gratuito e de código aberto (manual)
+- [x] **CodeBlocks**: Gratuito e de código aberto
+- [ ] **Dev C++**: Gratuito (não é código aberto, mas há forks que são)
+- [x] **DBeaver Community**: Gratuito e de código aberto
+- [x] **Eclipse IDE for Enterprise Java and Web Developers**: Gratuito e de código aberto. (manual) 
 - [x] **Github Desktop**: Gratuito e de código aberto. (https://github.com/shiftkey/desktop) 
-- [x] **IntelliJ IDEA Community**: Gratuito e de código aberto (versão Ultimate é paga).  
-- [x] **PyCharm Community**: Gratuito e de código aberto (versão Professional é paga).  
-- [x] **R Studio**: Gratuito e de código aberto.  
-- [x] **Studio 3T**: Pago (versão de avaliação limitada disponível).  
-- [x] **Visual Studio Code**: Gratuito (não é completamente código aberto).  
+- [x] **IntelliJ IDEA Community**: Gratuito e de código aberto (versão Ultimate é paga). (manual)
+- [x] **PyCharm Community**: Gratuito e de código aberto (versão Professional é paga). (manual)
+- [x] **R Studio**: Gratuito e de código aberto. (manual)
+- [x] **Studio 3T**: Pago (versão de avaliação limitada disponível). (manual)  
+- [x] **Visual Studio Code**: Gratuito (não é completamente código aberto). (manual) 
+
+- RunJS depende de licença e não foi instalado
+
 
 ---
 
@@ -20,12 +25,12 @@ Checklist de instalação
 - [ ] **Nodejs**: Gratuito e de código aberto.  
 - [x] **Notepadqq**: Gratuito e de código aberto.  
 - [x] **PHP**: Gratuito e de código aberto.  
-- [x] **PHP Composer**: Gratuito e de código aberto.  
-- [ ] **Postman**: Gratuito para uso básico (versão completa é paga).  
-- [x] **Python**: Gratuito e de código aberto.  
-- [ ] **Python PIP**: Gratuito e de código aberto.  
-- [x] **SQLite3**: Gratuito e de código aberto.  
-- [ ] **VisualG**: Gratuito (não é código aberto).  
+- [x] **PHP Composer**: Gratuito e de código aberto (incluindo php-sqlite3 php-xml php-curl)  
+- [ ] **Postman**: Gratuito para uso básico (versão completa é paga)
+- [x] **Python**: Gratuito e de código aberto
+- [x] **Python PIP**: Gratuito e de código aberto
+- [x] **SQLite3**: Gratuito e de código aberto
+- [ ] **VisualG**: Gratuito (não é código aberto)
 
 ---
 
@@ -38,26 +43,27 @@ Checklist de instalação
 ---
 
 ### **Projetos**  
-- [ ] **git**: Gratuito e de código aberto.  
+- [x] **git**: Gratuito e de código aberto (incluindo pacote git-flow) 
 - [x] **LaTeX (texlive)**: Gratuito e de código aberto.  
 - [x] **TexMaker / TeXstudio**: Gratuitos e de código aberto.  
-- [x] **gource**: Gratuito e de código aberto.  
+- [x] **gource**: Gratuito e de código aberto
 
 ---
 
 ### **Serviços**  
-- [ ] **Apache Tomcat**: Gratuito e de código aberto.  
-- [ ] **Apache Web**: Gratuito e de código aberto.  
+- [x] **Apache Tomcat**: Gratuito e de código aberto.  
+- [x] **Apache Web**: Gratuito e de código aberto.  
 - [ ] **MongoDB Community Server**: Gratuito (versão Enterprise é paga).  
 - [ ] **MS-SQL Server Express**: Gratuito (versão completa é paga).  
-- [ ] **MySQL Community Server**: Gratuito (pode ter custos em ambientes corporativos).  
-- [ ] **PostgreSQL**: Gratuito e de código aberto.  
+- [x] **MySQL Community Server**: Gratuito (pode ter custos em ambientes corporativos).  
+- [x] **PostgreSQL**: Gratuito e de código aberto
+- [x] **OpenSSH**: Gratuito e de código aberto
 
 ---
 
 ### **Rede, Simulação, Virtualização e Segurança**  
 - [ ] **Cisco Packet Tracer 8.2**: Pago (uso educacional pode ser gratuito).  
-- [ ] **VirtualBox**: Gratuito e de código aberto (extensão pode ter licença restrita).  
+- [x] **VirtualBox**: Gratuito e de código aberto (extensão pode ter licença restrita).  
 - [x] **Wireshark**: Gratuito e de código aberto.  
 - [x] **Wine com suporte a 32 bits**: Gratuito e de código aberto  
 
@@ -76,6 +82,7 @@ Checklist de instalação
 - [x] **PDF Arranger**: Gratuito e de código aberto.  
 - [x] **Gimp (edição de imagem)**: Gratuito e de código aberto.  
 - [x] **Inkscape (desenho vetorial)**: Gratuito e de código aberto.  
+- [x] **QtQR (gerador de QR Code)**: Gratuito e de código aberto.  
 
 ---
 
@@ -83,5 +90,7 @@ Checklist de instalação
 - [x] **GNU Octave (com pacote symbolic)**: Gratuito e de código aberto.  
 - [x] **Geogebra**: Gratuito e de código aberto.  
 - [x] **QGIS (Geografia)**: Gratuito e de código aberto.  
+
+- Google Earth: nova licença não permite instalação para entidade acadêmica, permite somente pessoal física, deverão suar o Google Earth Web
 
 ---
