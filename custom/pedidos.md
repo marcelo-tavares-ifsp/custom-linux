@@ -110,17 +110,17 @@ Checklist de instalação
 - [x] **gnuplot ()**: Gratuito e de código aberto.  
 - [x] **Praat (Física)**: Gratuito e de código aberto.  
 - [x] **Tracker (Fisica)**: Gratuito e de código aberto.  
-- [] **Zotero (gerenciador de referências de pesquisa)**: Gratuito e de código aberto.  
+- [ ] **Zotero (gerenciador de referências de pesquisa)**: Gratuito e de código aberto.  
 - [x] **GNU Octave (com pacote symbolic)**: Gratuito e de código aberto.  
 - [x] **Geogebra**: Gratuito e de código aberto.  
 - [x] **QGIS (Geografia)**: Gratuito e de código aberto.  
 - [x] **QElectroTech (Elétrica)**: Gratuito e de código aberto.  
 - [x] **Marvin Sketch (Química)**: Proprietário, uso gratuito para Ensino  
-- [] ** ()**: Gratuito e de código aberto  
-- [] ** ()**: Gratuito e de código aberto  
-- [] ** ()**: Gratuito e de código aberto  
-- [] ** ()**: Gratuito e de código aberto  
-- [] ** ()**: Gratuito e de código aberto  
+- [ ] ** ()**: Gratuito e de código aberto  
+- [ ] ** ()**: Gratuito e de código aberto  
+- [ ] ** ()**: Gratuito e de código aberto  
+- [ ] ** ()**: Gratuito e de código aberto  
+- [ ] ** ()**: Gratuito e de código aberto  
 
 - Google Earth: nova licença não permite instalação para entidade acadêmica, deverão suar o Google Earth Web
 - Geosoft Oasis montaj exige agendamente para demonstração, não tem *download*, está fora do escopo dessa customização
