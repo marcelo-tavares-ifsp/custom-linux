@@ -17,12 +17,13 @@ Checklist de instalação
 - [x] **Visual Studio Code**: Gratuito (não é completamente código aberto). (manual) 
 
 - RunJS depende de licença e não foi instalado
+- Azure Data Studio indesejavelmente edita o aplicativo padrão para diretórios, para corrigir é preciso tirar *inode/directory;* de *MimeType* no arquivo */usr/share/applications/azuredatastudio.desktop* e executar o comantdo *update-desktop-database /usr/share/applications/*
 
 
 ---
 
 ### **Desenvolvimento e Linguagens de Programação**  
-- [ ] **Nodejs**: Gratuito e de código aberto.  
+- [x] **Nodejs**: Gratuito e de código aberto (apt install nodejs npm yarnpkg) 
 - [x] **Notepadqq**: Gratuito e de código aberto.  
 - [x] **PHP**: Gratuito e de código aberto.  
 - [x] **PHP Composer**: Gratuito e de código aberto (incluindo php-sqlite3 php-xml php-curl)  
@@ -59,7 +60,7 @@ Checklist de instalação
 ### **Serviços**  
 - [x] **Apache Tomcat**: Gratuito e de código aberto.  
 - [x] **Apache Web**: Gratuito e de código aberto.  
-- [ ] **MongoDB Community Server**: Gratuito (versão Enterprise é paga).  
+- [x] **MongoDB Community Server**: Gratuito (versão Enterprise é paga).  
 - [ ] **MS-SQL Server Express**: Gratuito (versão completa é paga).  
 - [x] **MySQL Community Server**: Gratuito (pode ter custos em ambientes corporativos).  
 - [x] **PostgreSQL**: Gratuito e de código aberto
@@ -114,13 +115,14 @@ Checklist de instalação
 - [x] **Geogebra**: Gratuito e de código aberto.  
 - [x] **QGIS (Geografia)**: Gratuito e de código aberto.  
 - [x] **QElectroTech (Elétrica)**: Gratuito e de código aberto.  
-- [] ** ()**: Gratuito e de código aberto.  
-- [] ** ()**: Gratuito e de código aberto.  
-- [] ** ()**: Gratuito e de código aberto.  
-- [] ** ()**: Gratuito e de código aberto.  
-- [] ** ()**: Gratuito e de código aberto.  
-- [] ** ()**: Gratuito e de código aberto.  
+- [x] **Marvin Sketch (Química)**: Proprietário, uso gratuito para Ensino  
+- [] ** ()**: Gratuito e de código aberto  
+- [] ** ()**: Gratuito e de código aberto  
+- [] ** ()**: Gratuito e de código aberto  
+- [] ** ()**: Gratuito e de código aberto  
+- [] ** ()**: Gratuito e de código aberto  
 
 - Google Earth: nova licença não permite instalação para entidade acadêmica, deverão suar o Google Earth Web
+- Geosoft Oasis montaj exige agendamente para demonstração, não tem *download*, está fora do escopo dessa customização
 
 ---
