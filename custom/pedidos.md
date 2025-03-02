@@ -31,15 +31,15 @@ Checklist de instalação
 - [x] **Python**: Gratuito e de código aberto
 - [x] **Python PIP**: Gratuito e de código aberto
 - [x] **SQLite3**: Gratuito e de código aberto
-- [ ] **VisualG**: Gratuito (não é código aberto)
+- [x] **VisualG**: Gratuito (não é código aberto)
 
 ---
 
 ### **Modelagem**  
-- [ ] **brModelo**: Gratuito (não é código aberto).  
+- [x] **brModelo**: Gratuito (não é código aberto).  
 - [ ] **MySQL Workbench**: Gratuito ().  
 - [x] **Umbrello (UML)**: Gratuito e de código aberto.  
-- [ ] **Yaoqiang BPMN**: Gratuito e de código aberto.  
+- [x] **Yaoqiang BPMN**: Gratuito e de código aberto.  
 
 ---
 
@@ -110,13 +110,13 @@ Checklist de instalação
 - [x] **gnuplot ()**: Gratuito e de código aberto.  
 - [x] **Praat (Física)**: Gratuito e de código aberto.  
 - [x] **Tracker (Fisica)**: Gratuito e de código aberto.  
-- [ ] **Zotero (gerenciador de referências de pesquisa)**: Gratuito e de código aberto.  
+- [x] **Zotero (gerenciador de referências de pesquisa)**: Gratuito e de código aberto.  
 - [x] **GNU Octave (com pacote symbolic)**: Gratuito e de código aberto.  
 - [x] **Geogebra**: Gratuito e de código aberto.  
 - [x] **QGIS (Geografia)**: Gratuito e de código aberto.  
 - [x] **QElectroTech (Elétrica)**: Gratuito e de código aberto.  
 - [x] **Marvin Sketch (Química)**: Proprietário, uso gratuito para Ensino  
-- [ ] ** ()**: Gratuito e de código aberto  
+- [x] **Intel Quartus Prime Lite (Eletrônica)**: Gratuito (precisa testar com o hardware) 
 - [ ] ** ()**: Gratuito e de código aberto  
 - [ ] ** ()**: Gratuito e de código aberto  
 - [ ] ** ()**: Gratuito e de código aberto  
