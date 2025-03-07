@@ -23,11 +23,14 @@ Checklist de instalação
 ---
 
 ### **Desenvolvimento e Linguagens de Programação**  
+- [x] **C/HPC**: Gratuito e de código aberto (apt install gcc libgomp1)
+- [x] **OpenGL**: Gratuito e de código aberto (apt install gcc libgl1-mesa-dev libglu1-mesa-dev freeglu3-dev)
+- [x] **.NET**: Gratuito 
 - [x] **Nodejs**: Gratuito e de código aberto (apt install nodejs npm yarnpkg) 
 - [x] **Notepadqq**: Gratuito e de código aberto.  
 - [x] **PHP**: Gratuito e de código aberto.  
 - [x] **PHP Composer**: Gratuito e de código aberto (incluindo php-sqlite3 php-xml php-curl)  
-- [ ] **Postman**: Gratuito para uso básico (versão completa é paga)
+- [x] **Postman**: Gratuito para uso básico (versão completa é paga)
 - [x] **Python**: Gratuito e de código aberto
 - [x] **Python PIP**: Gratuito e de código aberto
 - [x] **SQLite3**: Gratuito e de código aberto
@@ -37,7 +40,7 @@ Checklist de instalação
 
 ### **Modelagem**  
 - [x] **brModelo**: Gratuito (não é código aberto).  
-- [ ] **MySQL Workbench**: Gratuito ().  
+- [x] **MySQL Workbench**: Gratuito ().  
 - [x] **Umbrello (UML)**: Gratuito e de código aberto.  
 - [x] **Yaoqiang BPMN**: Gratuito e de código aberto.  
 
@@ -61,16 +64,18 @@ Checklist de instalação
 - [x] **Apache Tomcat**: Gratuito e de código aberto.  
 - [x] **Apache Web**: Gratuito e de código aberto.  
 - [x] **MongoDB Community Server**: Gratuito (versão Enterprise é paga).  
-- [ ] **MS-SQL Server Express**: Gratuito (versão completa é paga).  
+- [ ] **MS-SQL Server Express**: Gratuita (mais libldap-2.4-2_2.4.47+dfsg-3+deb10u7_amd64.deb libssl1.1_1.1.1w-0+deb11u2_amd64.deb)
 - [x] **MySQL Community Server**: Gratuito (pode ter custos em ambientes corporativos).  
 - [x] **PostgreSQL**: Gratuito e de código aberto
 - [x] **OpenSSL**: Gratuito e de código aberto
 - [x] **OpenSSH**: Gratuito e de código aberto
 
+- para mssql foram instaladoslibldap-2.4-2_2.4.47+dfsg-3+deb10u7_amd64.deb  libssl1.1_1.1.1w-0+deb11u2_amd64.deb
+
 ---
 
 ### **Rede, Simulação, Virtualização e Segurança**  
-- [ ] **Cisco Packet Tracer 8.2**: Pago (uso educacional pode ser gratuito).  
+- [x] **Cisco Packet Tracer 8.2**: Pago (uso educacional pode ser gratuito).  
 - [x] **KeepassXC**: Gratuito e de código aberto
 - [x] **Kleopatra**: Gratuito e de código aberto
 - [x] **phpMyAdmin**: Gratuito e de código aberto
