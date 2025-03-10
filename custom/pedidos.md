@@ -64,13 +64,13 @@ Checklist de instalação
 - [x] **Apache Tomcat**: Gratuito e de código aberto.  
 - [x] **Apache Web**: Gratuito e de código aberto.  
 - [x] **MongoDB Community Server**: Gratuito (versão Enterprise é paga).  
-- [ ] **MS-SQL Server Express**: Gratuita (mais libldap-2.4-2_2.4.47+dfsg-3+deb10u7_amd64.deb libssl1.1_1.1.1w-0+deb11u2_amd64.deb)
+- [x] **MS-SQL Server Developer**: Gratuita
 - [x] **MySQL Community Server**: Gratuito (pode ter custos em ambientes corporativos).  
 - [x] **PostgreSQL**: Gratuito e de código aberto
 - [x] **OpenSSL**: Gratuito e de código aberto
 - [x] **OpenSSH**: Gratuito e de código aberto
 
-- para mssql foram instaladoslibldap-2.4-2_2.4.47+dfsg-3+deb10u7_amd64.deb  libssl1.1_1.1.1w-0+deb11u2_amd64.deb
+- para mssql foram instalados libldap-2.4-2_2.4.47+dfsg-3+deb10u7_amd64.deb libssl1.1_1.1.1w-0+deb11u2_amd64.deb
 
 ---
 
@@ -127,7 +127,7 @@ Checklist de instalação
 - [ ] ** ()**: Gratuito e de código aberto  
 - [ ] ** ()**: Gratuito e de código aberto  
 
-- Google Earth: nova licença não permite instalação para entidade acadêmica, deverão suar o Google Earth Web
+- Google Earth: nova licença não permite instalação para entidade acadêmica, deverão usar o Google Earth Web
 - Geosoft Oasis montaj exige agendamente para demonstração, não tem *download*, está fora do escopo dessa customização
 
 ---
