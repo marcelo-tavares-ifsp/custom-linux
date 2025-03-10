@@ -94,6 +94,7 @@ Checklist de instalação
 ---
 
 ### **Escritório, Ferramentas e Produtividade**  
+- [x] **ARandR (gestor telas)**: Gratuito e de código aberto
 - [x] **Audacity (editor de áudio)**: Gratuito e de código aberto.  
 - [x] **calculadora científica**: Gratuito e de código aberto.  
 - [x] **Chromium (navegador Web)**: Gratuito e de código aberto.  
