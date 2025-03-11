@@ -11,4 +11,5 @@
 
 - chave SSH geral
 - melhorar background do lightdm
+- criar usuário Suporte
 

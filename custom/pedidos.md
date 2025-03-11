@@ -2,7 +2,7 @@ Checklist de instalação
 
 ---
 
-### **IDEs e Afins**  
+### **IDEs e afins**  
 - [x] **Arduino IDE**: Gratuito e de código aberto  
 - [x] **Azure Data Studio**: Gratuito e de código aberto (manual)
 - [x] **CodeBlocks**: Gratuito e de código aberto
@@ -23,8 +23,8 @@ Checklist de instalação
 ---
 
 ### **Desenvolvimento e Linguagens de Programação**  
-- [ ] **C/HPC**: Gratuito e de código aberto (apt install gcc libgomp1)
-- [ ] **OpenGL**: Gratuito e de código aberto (apt install gcc libgl1-mesa-dev libglu1-mesa-dev freeglu3-dev)
+- [x] **C/HPC**: Gratuito e de código aberto (apt install gcc libgomp1)
+- [x] **OpenGL**: Gratuito e de código aberto (apt install gcc libgl1-mesa-dev libglu1-mesa-dev freeglu3-dev)
 - [x] **.NET**: Gratuito 
 - [x] **Nodejs**: Gratuito e de código aberto (apt install nodejs npm yarnpkg) 
 - [x] **Notepadqq**: Gratuito e de código aberto.  
@@ -52,6 +52,7 @@ Checklist de instalação
 - [x] **latexdiff**: Gratuito e de código aberto 
 - [x] **LaTeX (texlive)**: Gratuito e de código aberto.  
 - [x] **Meld**: Gratuito e de código aberto 
+- [x] **ProjectLibre**: Gratuito e de código aberto 
 - [x] **statsvn**: Gratuito e de código aberto 
 - [x] **subversion**: Gratuito e de código aberto 
 - [x] **TexMaker**: Gratuitos e de código aberto.  
@@ -111,9 +112,10 @@ Checklist de instalação
 
 ---
 
-### **Educacionais**  
+### **Educacionais e afins**  
 - [x] **Avogadro (Química)**: Gratuito e de código aberto.  
-- [x] **gnuplot ()**: Gratuito e de código aberto.  
+- [x] **Blender (Modelagem/Animação 3D)**: Gratuito e de código aberto.  
+- [x] **gnuplot (Matemática)**: Gratuito e de código aberto.  
 - [x] **Praat (Física)**: Gratuito e de código aberto.  
 - [x] **Tracker (Fisica)**: Gratuito e de código aberto.  
 - [x] **Zotero (gerenciador de referências de pesquisa)**: Gratuito e de código aberto.  
@@ -123,10 +125,10 @@ Checklist de instalação
 - [x] **QElectroTech (Elétrica)**: Gratuito e de código aberto.  
 - [x] **Marvin Sketch (Química)**: Proprietário, uso gratuito para Ensino  
 - [x] **Intel Quartus Prime Lite (Eletrônica)**: Gratuito (precisa testar com o hardware) 
-- [ ] ** ()**: Gratuito e de código aberto  
-- [ ] ** ()**: Gratuito e de código aberto  
-- [ ] ** ()**: Gratuito e de código aberto  
-- [ ] ** ()**: Gratuito e de código aberto  
+- [ ] **Bonsai OpenBIM p/ Blender ()**: 
+- [ ] **Sverchok p/ Blender ()**: 
+- [ ] ** ()**: 
+- [ ] ** ()**: 
 
 - Google Earth: nova licença não permite instalação para entidade acadêmica, deverão usar o Google Earth Web
 - Geosoft Oasis montaj exige agendamente para demonstração, não tem *download*, está fora do escopo dessa customização
