@@ -23,8 +23,8 @@ Checklist de instalação
 ---
 
 ### **Desenvolvimento e Linguagens de Programação**  
-- [x] **C/HPC**: Gratuito e de código aberto (apt install gcc libgomp1)
-- [x] **OpenGL**: Gratuito e de código aberto (apt install gcc libgl1-mesa-dev libglu1-mesa-dev freeglu3-dev)
+- [ ] **C/HPC**: Gratuito e de código aberto (apt install gcc libgomp1)
+- [ ] **OpenGL**: Gratuito e de código aberto (apt install gcc libgl1-mesa-dev libglu1-mesa-dev freeglu3-dev)
 - [x] **.NET**: Gratuito 
 - [x] **Nodejs**: Gratuito e de código aberto (apt install nodejs npm yarnpkg) 
 - [x] **Notepadqq**: Gratuito e de código aberto.  
