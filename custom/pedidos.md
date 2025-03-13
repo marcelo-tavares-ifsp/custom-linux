@@ -104,6 +104,7 @@ Checklist de instalação
 - [x] **Gimp (edição de imagem)**: Gratuito e de código aberto.  
 - [x] **Inkscape (desenho vetorial)**: Gratuito e de código aberto.  
 - [x] **LibreOffice (suíte de escritório)**: Gratuito e de código aberto.  
+- [x] **OBS Studio (gravação multimídia)**: Gratuito e de código aberto.  
 - [x] **Okular (PDF)**: Gratuito e de código aberto.  
 - [x] **PDF Arranger**: Gratuito e de código aberto.  
 - [x] **QtQR (gerador de QR Code)**: Gratuito e de código aberto.  

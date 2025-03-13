@@ -6,10 +6,12 @@
 - semi-rolling testing > unstable > stable
 - visualização git no bash https://github.com/magicmonty/bash-git-prompt
 - segurança no grub https://poweradm.com/grub-password-linux/
+- imagem padrão /usr/share/backgrounds/budgie/default.jpg
+- melhorar background do lightdm
+- criar usuário Suporte
+- chave SSH geral
+- avisar e desligar 23h30
 
 ### a fazer
 
-- chave SSH geral
-- melhorar background do lightdm
-- criar usuário Suporte
 
