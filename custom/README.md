@@ -11,6 +11,8 @@
 - criar usuário Suporte
 - chave SSH geral
 - avisar e desligar 23h30
+- ntp com systemd-timesyncd
+- diretórios de usuários no Apache2 (chmod g+rx /home/*)
 
 ### a fazer
 
