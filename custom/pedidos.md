@@ -6,7 +6,7 @@ Checklist de instalação
 - [x] **Arduino IDE**: Gratuito e de código aberto  
 - [x] **Azure Data Studio**: Gratuito e de código aberto (manual)
 - [x] **CodeBlocks**: Gratuito e de código aberto
-- [ ] **Dev C++**: Gratuito (não é código aberto, mas há forks que são)
+- [x] **Dev C++**: Gratuito (não é código aberto, mas há forks que são)
 - [x] **DBeaver Community**: Gratuito e de código aberto
 - [x] **Eclipse IDE for Enterprise Java and Web Developers**: Gratuito e de código aberto. (manual) 
 - [x] **Github Desktop**: Gratuito e de código aberto. (https://github.com/shiftkey/desktop) 
@@ -75,7 +75,7 @@ Checklist de instalação
 
 ---
 
-### **Rede, Simulação, Virtualização e Segurança**  
+### **Rede, Hardware, Simulação, Virtualização e Segurança**  
 - [x] **Cisco Packet Tracer 8.2**: Pago (uso educacional pode ser gratuito).  
 - [x] **KeepassXC**: Gratuito e de código aberto
 - [x] **Kleopatra**: Gratuito e de código aberto
@@ -84,7 +84,7 @@ Checklist de instalação
 - [x] **VirtualBox**: Gratuito e de código aberto (extensão pode ter licença restrita).  
 - [x] **Wireshark**: Gratuito e de código aberto.  
 - [x] **Wine com suporte a 32 bits**: Gratuito e de código aberto  
-
+- [x] **identificação de hardware**: lshw hwinfo lsscsi inxi pydf fdisk mount dmidecode hdparm hardinfo2 
 ---
 
 ### **Acessibilidade**  

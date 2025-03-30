@@ -12,8 +12,10 @@
 - chave SSH geral
 - avisar e desligar 23h30
 - ntp com systemd-timesyncd
-- diretórios de usuários no Apache2 (chmod g+rx /home/*)
+- diretórios de usuários no Apache2 (chmod g+rx /home/\*) 
+- configurar run.conf com OpenJDK 8 para ProjectLibre 
 
 ### a fazer
 
+- proxy /etc/profile, apt.conf
 
