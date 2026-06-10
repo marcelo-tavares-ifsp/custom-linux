@@ -1,5 +1,8 @@
 ### para escrever
 
+- retirar linux-image-amd64, para fixar kernel
+- sudo para o usuário CIRC
+- conifgurar segurança no Firefox
 - restauração de arquivos e usuários
 - redução do tempo do grub
 - login automático no lightdm no boot
