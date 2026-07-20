@@ -1,8 +1,8 @@
 # Construindo um Sistema Wayland Minimalista com Budgie Desktop no VirtualBox
 
-Este guia detalha como criar um ambiente gráfico moderno (Wayland) utilizando o Budgie Desktop em uma máquina virtual (VirtualBox), focado em extrema leveza e modularidade.
+Este tutorial detalha como criar um ambiente gráfico moderno (Wayland) utilizando o Budgie Desktop em uma máquina virtual (VirtualBox), priorizando simplicidade, modularidade e reprodutibilidade.
 
-### O Ponto de Partida: Debian *testing* (Modo Texto)
+### O Ponto de Partida: Debian *testing* (modo texto)
 
 Todos os comandos deste tutorial pressupõem que você crie **uma instalação limpa do Debian sem interface gráfica**. Durante a instalação do sistema operacional, na tela de "Seleção de software" após a instalação do sistema base, **desmarque todas as opções de ambiente de área de trabalho** e deixe marcado apenas os "utilitários padrão do sistema". O resultado será uma instalação básica, inicializando direto no terminal.
 
@@ -87,7 +87,7 @@ Notará que as fontes de programas em *testing* terão o número 500 (quinhentos
 
 Como desativamos as recomendações no passo anterior, precisamos declarar manualmente alguns pacotes vitais (como temas, ícones e orquestradores de sessão) para que o Budgie não inicie em uma tela preta. 
 
-Também usaremos o hífen (`-`) no final de pacotes indesejados para evitar a instalação do antigo servidor X e orquestradores gráficos como o Mutter. Permitiremos propositalmente o `xserver-xorg-core` para satisfazer a dependência de integração do VirtualBox.
+Também usaremos o hífen (`-`) no final de pacotes indesejados para evitar a instalação do antigo servidor X e orquestradores gráficos como o Mutter. Permitiremos propositalmente o `xserver-xorg-core` para satisfazer a dependência de integração do VirtualBox, em hardware físico esse pacote normalmente não é necessário.
 
 Execute os comandos:
 ```bash
@@ -95,6 +95,8 @@ sudo apt update
 
 sudo apt install budgie-desktop labwc greetd tuigreet dbus-user-session libpam-systemd polkitd network-manager fonts-noto virtualbox-guest-utils virtualbox-guest-x11 adwaita-icon-theme hicolor-icon-theme gsettings-desktop-schemas budgie-session gnome-settings-daemon swaybg xdg-desktop-portal-wlr xserver-xorg- xserver-xorg-video-all- mutter-
 ```
+
+Se não estiver instalando no VirtualBox ou não precisar de compatibilidade no *guest*, remova `virtualbox-guest-utils virtualbox-guest-x11` do comando de instalação.
 
 ---
 
@@ -107,11 +109,11 @@ Crie o arquivo:
 sudo nano /usr/local/bin/start-budgie-vm.sh
 ```
 
-Cole o seguinte conteúdo:
+Cole o seguinte conteúdo, atenção aos comentários:
 ```bash
 #!/bin/bash
 
-# Força o sistema a usar o processador para renderização
+# Forçando o uso renderização gráfica por software devido a possível incompatibilidade com o VirtualBox, comente esse bloco quando houver suporte a aceleração gráfica por hardware
 export LIBGL_ALWAYS_SOFTWARE=1
 export WLR_RENDERER=pixman
 
