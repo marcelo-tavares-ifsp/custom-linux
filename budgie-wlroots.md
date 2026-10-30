@@ -85,9 +85,9 @@ Notará que as fontes de programas em *testing* terão o número 500 (quinhentos
 
 ### Instalando a base do Budgie Desktop
 
-Como desativamos as recomendações no passo anterior, precisamos declarar manualmente alguns pacotes vitais (como temas, ícones e orquestradores de sessão) para que o Budgie não inicie em uma tela preta. 
+Como desativamos as recomendações no passo anterior, precisamos declarar manualmente alguns pacotes vitais (como temas, ícones e gerenciadores de sessão) para que o Budgie não inicie em uma tela preta. 
 
-Também usaremos o hífen (`-`) no final de pacotes indesejados para evitar a instalação do antigo servidor X e orquestradores gráficos como o Mutter. Permitiremos propositalmente o `xserver-xorg-core` para satisfazer a dependência de integração do VirtualBox, em hardware físico esse pacote normalmente não é necessário.
+Também usaremos o hífen (`-`) no final de pacotes indesejados para evitar a instalação do antigo servidor X e compositores gráficos como o Mutter. Permitiremos propositalmente o `xserver-xorg-core` para satisfazer a dependência de integração do VirtualBox; em hardware físico esse pacote normalmente não é necessário.
 
 Execute os comandos:
 ```bash
